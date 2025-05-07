@@ -53,9 +53,8 @@ ClarifAI is an advanced, intuitive, end-to-end machine learning workbench design
 
 3.  **Launch the Application:**
     ```bash
-    streamlit run enhanced_autonexus_v2.py 
+    streamlit run clarifai_app.py
     ```
-    (If you renamed the script, use that name instead, e.g., `streamlit run clarifai_app.py`)
 
     The application will open in your default web browser.
 
